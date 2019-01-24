@@ -1,0 +1,23 @@
+p.intro{
+  width: 50%;
+  font-style: italic;
+  font-family: monospace;
+}
+
+p.author{
+  width: 75%;
+  font-weight: bold;
+}
+
+.important{
+  color: green;
+}
+
+.special{
+  border: 2px solid blue;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding: 4px;
+  margin: 16px;
+  background: gray;
+}
